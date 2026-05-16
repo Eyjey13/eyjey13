@@ -55,7 +55,7 @@ I started learning to code by building mini projects at night—and now I’m wo
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/allyzza-villaver-136746285/)
-- 📝 [Portfolio](In-Progress)
+- 📝 [Portfolio](https://allyzzavillaver.netlify.app/)
 - 📧 allyzzajoyce.villaver@gmail.com
 
 ---
