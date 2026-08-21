@@ -1,78 +1,173 @@
-## Hi there 👋 I'm Allyzza Joyce (AJ) Villaver!
+# Hi there 👋 I'm Allyzza Joyce (AJ) Villaver
 
-I'm a **Software Engineer at Accenture Philippines** with 3+ years building and maintaining enterprise-grade web applications — .NET backends, Angular frontends, and Azure-powered deployments. Before that, I spent a year as a **Prompt Engineer**, designing and quality-reviewing LLM outputs at scale.
+**Application Support Engineer | .NET | SQL Server | Azure | Production Support | Security Remediation**
 
----
+I'm an **Application Support Engineer and Custom Software Engineer** with **3+ years of experience** supporting and maintaining enterprise applications using **C#, .NET, ASP.NET Core, SQL Server, REST APIs, Angular, and Microsoft Azure**.
 
-### 🧠 What I Bring to the Table
-
-- ✅ Real-world experience shipping features on live production systems used by global enterprise clients
-- 🔄 Agile/sprint contributor — I've joined existing codebases and delivered meaningful features fast
-- 🤖 Hands-on LLM experience — prompt authoring, completion review, and iterative refinement
-- 🌍 Full-stack comfort: .NET backends, Angular frontends, cloud infrastructure
-- 🔐 Security-first mindset — identified and remediated 15+ OWASP Top 10 vulnerabilities in production
-- 📐 Clean architecture advocate — CQRS, multi-tenancy, async messaging, testable code
+My experience spans **production support, troubleshooting, root cause analysis, application maintenance, vulnerability remediation, testing, and deployments**. I'm also interested in **Application Security, Cybersecurity, AI, and automation**.
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🧠 What I Bring to the Table
 
-- **Languages:** C#, TypeScript, JavaScript, HTML/CSS
-- **Backend:** .NET 4.8 / .NET 8, REST APIs, Entity Framework Core, SQL Server
-- **Frontend:** Angular, TypeScript
-- **Cloud & DevOps:** Azure DevOps, Azure App Services, AWS S3, CI/CD Pipelines, Content Manager, Control-M
-- **AI:** Prompt Engineering, LLM Evaluation & QA
-- **Other:** Docker, Git, Postman, OWASP Top 10, Agile/Scrum
-
----
-
-### 💼 Projects That Matter
-
-**📁 Contract Record Management System** *(Accenture — Internal)*
-Enterprise web app for contract storage and records management. Built CRUD operations, Control-M–driven notifications, and role-based access control (Admin + 3 standard user tiers) as part of an active Agile sprint team.
-`.NET 4.8 · Angular · TypeScript · SQL Server · AWS S3 · Azure DevOps · Content Manager`
-
-**🤖 AI Prompt Engineering & Quality Review** *(Accenture)*
-Authored structured prompt-completion pairs for a large-scale LLM project, then systematically reviewed batches of completions against strict acceptance criteria — iterating on prompts to improve accuracy, safety, and coherence.
-`Prompt Engineering · LLM Evaluation · AI QA`
-
-**⚙️ FlowTrack API** *(Personal Project)*
-Multi-tenant workflow automation engine built on clean .NET 8 architecture — CQRS with MediatR, JWT auth, EF Core tenant isolation, Azure Service Bus async jobs with retry/dead-letter handling, Docker, and CI/CD with 85%+ test coverage.
-`.NET 8 · C# · EF Core · SQL Server · Azure Service Bus · Docker · xUnit`
+* 🛠️ **Production & Application Support** — Troubleshooting incidents, service requests, defects, and application issues
+* 💻 **.NET Development** — C#, .NET, ASP.NET Core, REST APIs, Angular, and TypeScript
+* 🔍 **Root Cause Analysis** — Investigating application, database, API, and integration issues
+* 🔐 **Security Remediation** — Remediated **15+ application security vulnerabilities**
+* ☁️ **Cloud & DevOps** — Microsoft Azure, Azure App Services, Azure DevOps, Git, and CI/CD
+* 🗄️ **SQL Server** — SQL queries, stored procedures, and database troubleshooting
+* 🚀 **Application Maintenance** — Technology upgrades, dependency updates, testing, and deployment support
+* 🤖 **AI Experience** — Prompt Engineering and AI-generated output evaluation
 
 ---
 
-### 🏅 Certifications
+## 🧰 Tech Stack
 
-- ☁️ **AZ-900** — Microsoft Azure Fundamentals *(Microsoft Certified)*
-- 🏛️ **Civil Service Eligibility** — Professional Level *(Philippine Civil Service Commission)*
-- 🐍 **100 Days of Code: The Complete Python Pro Bootcamp** — Udemy
-- 🤖 **LLM Engineering: Master AI, Large Language Models & Agents** — Udemy
+**Languages & Frameworks**
 
----
+`C#` `.NET` `ASP.NET Core` `Angular` `TypeScript` `JavaScript` `HTML` `CSS`
 
-### 💡 What I'm Currently Exploring
+**Backend & Database**
 
-- Advanced .NET architecture patterns (vertical slice, modular monolith)
-- Secure cloud infrastructure (Terraform, IaC)
-- LLM fine-tuning and advanced prompt workflows
-- Building scalable SaaS platforms end-to-end
+`REST APIs` `SQL Server` `T-SQL` `Stored Procedures`
 
----
+**Cloud & DevOps**
 
-### 🎉 Fun Fact
+`Microsoft Azure` `Azure App Services` `Azure DevOps` `AWS S3` `CI/CD` `Git`
 
-I started as a Customer Service Rep, pivoted to data analysis, then landed in software engineering — and never looked back. I went from prompting AI models to building the backend systems that power them.
+**Security**
 
----
+`OWASP Top 10` `Vulnerability Remediation` `Application Security` `Secure Coding`
 
-### 📫 Let's Connect
+**Tools**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/allyzza-joyce-villaver-136746285/)
-- 🌐 [Portfolio](https://allyzzavillaver.netlify.app/)
-- 📧 allyzzajoyce.villaver@gmail.com
+`Visual Studio` `VS Code` `Postman` `ServiceNow` `Docker`
+
+**AI**
+
+`Prompt Engineering` `AI Evaluation` `OpenAI API`
 
 ---
 
-> *"Code. Learn. Iterate. Repeat."*
-> *Keep building. Keep learning. Never settle.*
+## 💼 Professional Highlights
+
+* **3+ years** supporting and maintaining enterprise applications across .NET, SQL Server, Angular, and Azure
+* Remediated **15+ application security vulnerabilities** through secure coding fixes, testing, and validation
+* Perform **production troubleshooting and root cause analysis** across application, database, API, and integration layers
+* Support **application releases, deployments, and CI/CD pipelines** using Azure DevOps and Git
+* Provide technical guidance to **junior developers and new team members**
+
+---
+
+## 🔐 Security & Vulnerability Remediation
+
+Security is one of the areas I'm particularly interested in developing further.
+
+Through my professional experience, I've worked on:
+
+* 🔎 Analyzing application security findings
+* 🛡️ Remediating **15+ vulnerabilities**
+* 💻 Implementing secure coding fixes
+* 🧪 Testing and validating remediation
+* 🔐 Applying security risk mitigation practices
+* 📚 Learning more about application security and secure software development
+
+I'm working toward expanding my experience from **software engineering and application support into cybersecurity and application security**.
+
+---
+
+## 🤖 AI & Prompt Engineering
+
+Before moving into software engineering and application support, I worked as a **Prompt Engineer** on AI-related projects.
+
+My experience included:
+
+* Designing and optimizing prompts
+* Evaluating AI-generated responses
+* Identifying errors and inconsistencies
+* Reviewing outputs against quality standards
+* Providing feedback to improve AI output quality
+
+I'm continuing to explore **AI, LLM applications, automation, and Python**.
+
+---
+
+## 🚀 Featured Projects
+
+I use GitHub to build and document projects that strengthen my skills in **software engineering, security, cloud, automation, and AI**.
+
+### 🔹 .NET & Backend Projects
+
+Building projects focused on:
+
+* REST API development
+* C# and .NET
+* SQL Server
+* Authentication & authorization
+* Application architecture
+* Automated testing
+
+### 🔹 Security Projects
+
+Exploring:
+
+* Secure coding
+* OWASP Top 10
+* Vulnerability assessment
+* Application security
+* Security automation
+
+### 🔹 AI & Python Projects
+
+Exploring:
+
+* Python automation
+* LLM applications
+* Prompt engineering
+* AI APIs
+* AI-assisted development
+
+> 🚧 More projects coming as I continue building and learning.
+
+---
+
+## 🏅 Certifications
+
+* ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** — 2022
+* 🏛️ **Civil Service Eligibility — Professional**
+
+---
+
+## 🌱 Currently Learning
+
+* 🔐 Cybersecurity & Application Security
+* 🛡️ Secure Software Development
+* ☁️ Cloud Security
+* 🐍 Python
+* 🤖 AI & LLM Applications
+* ⚙️ Automation
+* 🚀 DevSecOps
+
+---
+
+## 🎯 Career Focus
+
+I'm interested in opportunities at the intersection of:
+
+**Software Engineering · Application Support · Cloud · Security · Automation · AI**
+
+My goal is to build on my experience in enterprise software and production support while developing deeper expertise in **Application Security and Cybersecurity**.
+
+---
+
+## 📫 Let's Connect
+
+* 💼 [LinkedIn](https://linkedin.com/in/allyzza-villaver)
+* 🌐 [Portfolio](https://allyzzavillaver.netlify.app/)
+* 📧 [Email](mailto:allyzzajoyce.villaver@gmail.com)
+
+---
+
+> **Build. Support. Secure. Improve.**
+>
+> *Always learning. Always building.*
